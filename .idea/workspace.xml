@@ -217,12 +217,12 @@
       <workItem from="1558212378705" duration="1102000" />
       <workItem from="1558778806259" duration="3096000" />
       <workItem from="1560165079940" duration="738000" />
-      <workItem from="1560411538328" duration="2566000" />
+      <workItem from="1560411538328" duration="2750000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21776000" />
+    <option name="totallyTimeSpent" value="21960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1977" y="25" width="1223" height="999" extended-state="6" />
@@ -241,7 +241,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32988507" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32988507" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />

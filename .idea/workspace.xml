@@ -2,74 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f423421-297e-42c3-9745-eef282452a7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/accordion1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/avatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/avatar1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/avatar2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/avatar3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/blog1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/blog2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/boy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/boy2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/boy3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/comments_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/gallery1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/gallery2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/gallery3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/gallery4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/gallery5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/gallery6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/girl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/thumb1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/thumb2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/blog/thumb3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/client1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/client2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/client3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/contact.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/gallery6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/image_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_200x40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_200x50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_smalll.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/man1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/man2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/man3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/man4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/nobody.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/search_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/service/client1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/service/client2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/service/client3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/service/image_bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/bg_services.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/bg_services.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/services1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/services2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/services3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/services4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/services5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/services6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/slider-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sliderImg_one.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sliderImg_three.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sliderImg_two.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider_one.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider_three.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider_two.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tab1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tab2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team-member.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/testimonials1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NOTES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NOTES.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -104,16 +37,20 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NOTES.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about-us.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-270">
-              <caret line="39" column="112" selection-start-line="39" selection-start-column="112" selection-end-line="39" selection-end-column="112" />
+            <state relative-caret-position="135">
+              <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -199,6 +136,7 @@
         <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/NOTES.txt" />
       </list>
     </option>
   </component>
@@ -231,13 +169,6 @@
               <item name="images" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ProBCBuild" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProBCBuild" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="recent" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -254,6 +185,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/portfolio/recent" />
       <recent name="C:\xampp\htdocs\images" />
       <recent name="C:\Users\Petre\.PhpStorm2019.1\config\scratches\images" />
     </key>
@@ -287,12 +219,12 @@
       <workItem from="1558212378705" duration="1102000" />
       <workItem from="1558778806259" duration="3096000" />
       <workItem from="1560165079940" duration="738000" />
-      <workItem from="1560411538328" duration="1585000" />
+      <workItem from="1560411538328" duration="2366000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20795000" />
+    <option name="totallyTimeSpent" value="21576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1977" y="25" width="1223" height="999" extended-state="6" />
@@ -311,7 +243,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32988507" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -370,9 +302,6 @@
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/NOTES.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Notes(1).txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -409,6 +338,13 @@
     <entry file="file://$PROJECT_DIR$/images/portfolio/recent/carrelage.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/about-us.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -416,10 +352,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about-us.html">
+    <entry file="file://$PROJECT_DIR$/NOTES.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="39" column="112" selection-start-line="39" selection-start-column="112" selection-end-line="39" selection-end-column="112" />
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>

@@ -55,14 +55,6 @@ jQuery(function($) {
 
 	//Initiat WOW JS
 	new WOW().init();
-
-	$(window).load(function () {
-		$('#recent').click(function () {
-			console.log('clicked')
-		});
-		var elem = $('#recent');
-		console.log(elem[0]);
-	});
 	// portfolio filter
 	$(window).load(function(){'use strict';
 		var $portfolio_selectors = $('.portfolio-filter >li>a');
@@ -71,6 +63,7 @@ jQuery(function($) {
 			itemSelector : '.portfolio-item',
 			layoutMode : 'fitRows'
 		});
+		$portfolio.isotope({ filter: '.recent' });
 
 		$portfolio_selectors.on('click', function(){
 			$portfolio_selectors.removeClass('active');

@@ -95,4 +95,5 @@ jQuery(function($) {
 	$("a[rel^='prettyPhoto']").prettyPhoto({
 		social_tools: false
 	});
+	$('.slider').bcSwipe({ threshold: 50 });
 });

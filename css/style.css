@@ -1366,6 +1366,7 @@ ul.social_icons li  a i{
   font-size: 14px;
   font-weight: 400;
   margin-right: 20px;
+  margin-bottom: 10px;
   text-transform: uppercase;
   transition: all 0.9s ease 0s;
   -moz-transition: all 0.9s ease 0s;
@@ -1906,6 +1907,12 @@ ul.sidebar-gallery {
     background-image: none;
     border: 1px solid transparent;
     border-radius: 4px;
+  }
+  .portfolio-filter{
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    text-align: left;
   }
 }
 

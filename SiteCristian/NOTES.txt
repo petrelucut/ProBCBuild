@@ -1,0 +1,6 @@
+TODO:
+-Contact us page;
+-Go to top button, on mobile, is over some buttons;
+-Clean code;
+Ex:
+https://www.crehabitat.be/
